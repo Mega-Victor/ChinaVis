@@ -3,13 +3,11 @@
 
 
 
- ![image](https://github.com/Mega-Victor/ChinaVis/picture/1)
+ ![image](https://github.com/Mega-Victor/ChinaVis/raw/master/picture/1.png)
+  ![image](https://github.com/Mega-Victor/ChinaVis/raw/master/picture/2.png)
+   ![image](https://github.com/Mega-Victor/ChinaVis/raw/master/picture/3.png)
+    ![image](https://github.com/Mega-Victor/ChinaVis/raw/master/picture/4.png)
+     ![image](https://github.com/Mega-Victor/ChinaVis/raw/master/picture/5.png)
 
- ![image](https://github.com/Mega-Victor/ChinaVis/picture/2)
 
- ![image](https://github.com/Mega-Victor/ChinaVis/picture/3)
-
- ![image](https://github.com/Mega-Victor/ChinaVis/picture/4)
-
- ![image](https://github.com/Mega-Victor/ChinaVis/picture/5)
 
